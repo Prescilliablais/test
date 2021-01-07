@@ -1,7 +1,0 @@
-C:\Users\Prescillia\Desktop\CNED\testconsole\testconsole\bin\Debug\testconsole.exe.config
-C:\Users\Prescillia\Desktop\CNED\testconsole\testconsole\bin\Debug\testconsole.exe
-C:\Users\Prescillia\Desktop\CNED\testconsole\testconsole\bin\Debug\testconsole.pdb
-C:\Users\Prescillia\Desktop\CNED\testconsole\testconsole\obj\Debug\testconsole.csprojAssemblyReference.cache
-C:\Users\Prescillia\Desktop\CNED\testconsole\testconsole\obj\Debug\testconsole.csproj.CoreCompileInputs.cache
-C:\Users\Prescillia\Desktop\CNED\testconsole\testconsole\obj\Debug\testconsole.exe
-C:\Users\Prescillia\Desktop\CNED\testconsole\testconsole\obj\Debug\testconsole.pdb
